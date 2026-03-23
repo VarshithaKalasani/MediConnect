@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+venv/
+.venv/
+env/
+ENV/
+
+# Environment
+.env
+*.env
+.env.example
+
+# Node
+node_modules/
+dist/
+.dist/
+*.local
+
+# Vite
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
